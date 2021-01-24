@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "script": {
+    "start": "node index.js"
+  }
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
     "dotenv": "^8.2.0",
